@@ -22,7 +22,7 @@ Site for a bookkeeping agency in Lebane, with verifiable company data, a contact
 
 Bata Stanković PR has kept the books for sole traders, flat-rate entrepreneurs and small companies around Lebane since 2014. Someone looking for a bookkeeper wants proof that the firm exists, a phone number and a way to ask one question. In the Jablanica district almost no agency has a proper website, only a line in a directory someone else filled in, so the site leads with registry data a client can check.
 
-The most important find was a contact form that had not sent a single message for months. The required consent checkbox was hidden with `display: none`, so when validation failed the browser could not focus it and cancelled the submit. There was no network request and no visible error, only one line in a console nobody opens. The field now stays in the layout, invisible but focusable, and the path to the mailbox got its own fixes: raw values for the reply-to address, a spam gate that fails closed and a real error message when a send does not go through.
+The most important find was a contact form that had not sent a single message for months. The required consent checkbox was hidden with `display: none`, so when validation failed the browser could not focus it and cancelled the submit. There was no network request and no visible error, only one line in a console nobody opens. The field is now a regular visible checkbox that can take focus, and the path to the mailbox got its own fixes: raw values for the reply-to address, a spam gate that fails closed and a real error message when a send does not go through.
 
 ## What I built
 

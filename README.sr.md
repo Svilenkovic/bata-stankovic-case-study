@@ -22,7 +22,7 @@ Sajt za knjigovodstvenu agenciju iz Lebana, sa proverljivim podacima o firmi, ko
 
 Bata Stanković PR od 2014. godine vodi knjige preduzetnicima, paušalcima i malim preduzećima iz Lebana i okoline. Ko traži knjigovođu, hoće dokaz da firma postoji, broj telefona i način da postavi jedno pitanje. U Jablaničkom okrugu skoro nijedna agencija nema pravi sajt, samo red u katalogu koji je neko drugi popunio, pa sajt na vrh stavlja registarske podatke koje klijent može da proveri.
 
-Najvažniji nalaz bila je kontakt forma koja mesecima nije poslala nijednu poruku. Obavezna kućica za saglasnost bila je sakrivena sa `display: none`, pa kad validacija nije prošla, pregledač nije mogao da je fokusira i prekidao je slanje. Nije bilo ni mrežnog zahteva ni greške na ekranu, samo jedan red u konzoli koju niko ne otvara. Polje sada ostaje u rasporedu strane, nevidljivo, ali može da primi fokus, a sredio sam i put do sandučeta: sirove vrednosti za adresu za odgovor, zaštita od botova koja pri kvaru zatvara prolaz i prava poruka o grešci kad slanje ne uspe.
+Najvažniji nalaz bila je kontakt forma koja mesecima nije poslala nijednu poruku. Obavezna kućica za saglasnost bila je sakrivena sa `display: none`, pa kad validacija nije prošla, pregledač nije mogao da je fokusira i prekidao je slanje. Nije bilo ni mrežnog zahteva ni greške na ekranu, samo jedan red u konzoli koju niko ne otvara. Polje je sada obična, vidljiva kućica koja može da primi fokus, a sredio sam i put do sandučeta: sirove vrednosti za adresu za odgovor, zaštita od botova koja pri kvaru zatvara prolaz i prava poruka o grešci kad slanje ne uspe.
 
 ## Šta sam uradio
 
