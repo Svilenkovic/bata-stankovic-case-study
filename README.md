@@ -4,7 +4,7 @@
 
 Site for a bookkeeping agency in Lebane, with verifiable company data, a contact form that really delivers and pages by type of client.
 
-**[batastankovic.com](https://batastankovic.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/bata-stankovic) · [Srpski](README.sr.md)
+**[batastankovic.com](https://batastankovic.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/bata-stankovic) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The most important find was a contact form that had not sent a single message fo
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 96 | 100 | 100 | 100 |
+| Mobile | 90 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AccountingService`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AccountingService`.
 
 ## Screenshots
 
